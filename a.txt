@@ -1,0 +1,2 @@
+=== codletech-builder Config Vars
+MONGOLAB_URI: mongodb://heroku_app28159613:nhgi65iethh88cc5h52re963qr@dbh84.mongolab.com:27847/heroku_app28159613
