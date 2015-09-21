@@ -20,4 +20,4 @@ exports.allowed_keys = [
 
 exports.BUCKET_NAME = 'codletechtest';
 exports.UPLOAD_PATH = 'Codletech/Approducer';
-exports.GIT_SECRET = '3a4d28eb30b36e0dae99bcc475f32df545c9c5cf';
+exports.GIT_SECRET = '';
