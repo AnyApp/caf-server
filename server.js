@@ -1,6 +1,6 @@
 // db stuff
 var mongoose = require( 'mongoose' );
-var mongoUri = 'mongodb://heroku_app28159613:nhgi65iethh88cc5h52re963qr@dbh84.mongolab.com:27847/heroku_app28159613';
+var mongoUri = '';
 mongoose.connect(mongoUri);
 require('./Schema/caf_object.js');
 require('./Schema/app_object.js');
